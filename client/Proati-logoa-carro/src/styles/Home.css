@@ -1,0 +1,30 @@
+.app--container {
+  display: flex;
+  align-items: center;
+  flex-direction:column;
+}
+
+.register--container {
+  padding: 10px 20px;
+  border: 3px solid black;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.register--title {
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: arial;
+}
+
+.register--input {
+  display:flex;
+  padding: 7px 0;
+  margin: 2px auto;
+}
+
+.inputs--select {
+  border-top-width: 20px;
+  padding-right: 20px;
+   padding-left: 20px;
+}
